@@ -32,7 +32,7 @@ print(df.shape)
 ```
 
 ## OUTPUT:
-![output](/Screenshot%202023-08-04%20151611.jpg)
+![output](/Screenshot%202023-08-07%20095934.png)
 
 ## RESULT:
 Thus a python program is written to read the contents of a CSV file.
